@@ -1,0 +1,51 @@
+h1 {
+      text-align:center;
+      text-size: 60px
+    }
+    body {
+      background-image:url("https://frontierveturgentcare.com/wp-content/uploads/2022/12/veterinarian-urgent-care-greenfield-wi.jpg");
+      background-repeat: no-repeat;
+      text-size:20px;
+      margin:0;
+	  font-family: Monospaced font;
+    }
+    .background {
+      background-color:black;
+      margin:0;
+      padding:30px;
+	  border-radius: 15px;
+    }
+    .foreground {
+      background-color:white;
+      margin:auto;
+      padding: 10px;
+      border: 2px solid black;
+      border-radius: 25px;
+    }
+    .textone {
+    font-size:25px;
+    font-family:helvetica;
+    }
+	
+	.special1{
+	background-image:url("https://cdcssl.ibsrv.net/ibimg/smb/518x630_80/webmgr/0o/x/s/2016-BOVI.jpg.webp");
+	background-position:right center;
+	background-repeat: no-repeat;
+	}	
+	
+	table {
+	border:5px solid;
+	border-collapse:collapse;
+	}
+	
+	th,td,tr {
+	border:2px solid;
+	}
+	
+	#thevivet {
+	text-align:center;
+	}
+	
+	#time {
+	text-align:center;
+	}
