@@ -3,11 +3,8 @@ h1 {
       text-size: 60px
     }
     body {
-      background-image:url("AnimalLineup.webp");
-      background-repeat: no-repeat;
-      text-size:20px;
-      margin:0;
-	  font-family: Monospaced font;
+      background-color:light purple;
+      font-family: Monospaced font;
     }
     .background {
       background-color:black;
