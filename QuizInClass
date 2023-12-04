@@ -10,9 +10,10 @@
 	web-share" allowfullscreen width="200">
 	</iframe>
 <video>
-	<source src="horserunning.mp4" type="video/mp4">
+	<source src="horserunning.mp4" type="video/mp4" width="200">
 </video>
 
+<img src="https://www.dreamstime.com/stock-image-white-rabbit-image1709771" width="200">
 
 <h3>Any questions or concers? Shoot an email!</h3>
 	<form action="misscharity8@gmail.com" method="post" enctype="type/plain">
