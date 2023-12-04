@@ -4,12 +4,14 @@
 </head>
 <body>
 
-<h3>Enjoy this funny videos XD</h3>
+<h2>Dog Chases Cat?!?!</h2>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/GRmKrpur94Y?si=Q_QPG61HoHg3QfS1" title="YouTube video player" frameborder="0" 
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; 
-	web-share" allowfullscreen>
+	web-share" allowfullscreen width="200">
 	</iframe>
-
+<video>
+	<source src="Horse runs out and charts his own course.mp4" type="video/mp4">
+</video>
 
 
 <h3>Any questions or concers? Shoot an email!</h3>
